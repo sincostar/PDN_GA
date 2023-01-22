@@ -7,7 +7,13 @@ Solving Jigsaw puzzles has recently become an emerging research topic. Tradition
 ## Visual Results
 
 **Visualization of the reassembling results on JPLEG-3 and JPLEG-5**
-
+### Visualization on JPLEG-3
+***Paintings***
+![Visualization on JPLEG-3](./sample_img/13131.jpg)
+***Engravings***
+![Visualization on JPLEG-3](./sample_img/38518.jpg)
+***Artifacts***
 ![Visualization on JPLEG-3](./sample_img/200778.jpg)
+
 
 More visual Results can be accessed on [Google Drive](https://drive.google.com/drive/folders/1iX5HE9Ym28UWxS6iOaO8dToX8_zcR5LN?usp=sharing).
